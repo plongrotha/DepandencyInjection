@@ -9,4 +9,6 @@ public class ComputerScienceDepartement implements RoyalUniversityOfPhnomPenh {
 	public String payment() {
 		return "Computer Science we pay 500$ per years";
 	}
+
+	// this is i edit from github
 }
